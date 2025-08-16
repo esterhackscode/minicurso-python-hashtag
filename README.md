@@ -29,6 +29,7 @@ Este projeto consiste em um **dashboard interativo de vendas** desenvolvido em P
 
 Os dados são carregados a partir de arquivos CSV presentes na pasta `Vendas` e agregados automaticamente.
 
+---
 ## Tecnologias
 
 - **Python**: Linguagem de programação principal.
@@ -36,6 +37,7 @@ Os dados são carregados a partir de arquivos CSV presentes na pasta `Vendas` e 
 - **Plotly**: Visualização interativa (gráficos).
 - **Streamlit**: Criação do dashboard web interativo.
 
+---
 ## Estrutura do Código
 
 1. **Carregamento de arquivos CSV**:  
@@ -58,11 +60,13 @@ Os dados são carregados a partir de arquivos CSV presentes na pasta `Vendas` e 
    - Gráfico de barras do faturamento por loja.
    - Tabela detalhada de todas as vendas filtradas.
 
+---
 ## Exemplo de Uso
 
 Ao acessar o dashboard, use a barra lateral para filtrar produtos e lojas.
 Observe a atualização automática dos gráficos e tabelas conforme as seleções.
 
+---
 ## Licença
 
 Este projeto está sob a licença MIT.
