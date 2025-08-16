@@ -49,7 +49,7 @@ st.subheader("Produto mais vendido")
 st.dataframe(tabela_produtos_filtrada[['Quantidade Vendida']])
 
 st.subheader("Faturamento por Loja")
-st.bar_chart(tabela_lojas_filtrada)
+st.bar_chart(tabela_lojas_filtrada[('Faturamento')])
 
 st.subheader("Vendas Detalhadas")
 st.dataframe(tabela_filtrada)
