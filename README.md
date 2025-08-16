@@ -17,7 +17,7 @@
 
 ---
 ## Sobre
-Utilizei o minicurso de Python da Hashtag Programação para treinar mais e tomei a liberdade de treinar também streamlit. [Acesse o app aqui](#-https://hashtag-app-vendas2025.streamlit.app/).
+Utilizei o minicurso de Python da Hashtag Programação para treinar mais e tomei a liberdade de treinar também streamlit. [Acesse o app online](https://hashtag-app-vendas2025.streamlit.app/)
 
 ---
 ## Funcionalidades
